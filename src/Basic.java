@@ -4,5 +4,9 @@ public class Basic {
         System.out.println(by);
         float lg= 12334221231321351f;
         System.out.println(lg);
+        int x =30;
+        short y= 20;
+        y=(short) x;
+        System.out.println(y);
     }
 }
